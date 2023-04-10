@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @nafishasalsabil
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software development,web development, designing, front-end development
+- 🌱 I’m currently learning typescript. 
+- 💞️ I’m looking to collaborate on something that matches my area of strengths in profession, although I don't mind going out of the box.
+- 📫 How to reach me : nafishasalsabil98@gmail.com
 
-<!---
-nafishasalsabil/nafishasalsabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
